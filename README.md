@@ -110,8 +110,7 @@ V: 1.5 L
   - Check internet connectivity.
 
 ## Images
-![IOT](https://drive.google.com/file/d/1VJ1GPi4LbkakRehwppA1MQG5VT5wMbYZ/view?usp=sharing)
-
+![IOT-water-flow-meter](https://github.com/user-attachments/assets/e834c4c0-5b6a-4775-b8c6-6496cce2d601)
 
 ## Author
 - Mihir Patil
