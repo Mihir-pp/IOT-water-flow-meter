@@ -110,14 +110,13 @@ V: 1.5 L
   - Check internet connectivity.
 
 ## Images
-
-
-
+![IOT](https://drive.google.com/file/d/1VJ1GPi4LbkakRehwppA1MQG5VT5wMbYZ/view?usp=sharing)
 
 
 ## Author
-
-[Your Name]
+- Mihir Patil
+- Sanat Pareek
+- Akash Bharti
 
 ## License
 
